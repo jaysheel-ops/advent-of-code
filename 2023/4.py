@@ -43,8 +43,3 @@ for key, value in copies.items():
 
     s2+=value
 print(s2)
-    # s1
-
-
-
-        
